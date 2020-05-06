@@ -36,3 +36,22 @@
     transform: rotate(360deg);
   }
 }
+
+span{
+  margin : 50px;
+}
+
+.main{
+  margin: 10px;
+}
+
+.card .title, .card .content{
+  margin: 1px;
+}
+
+.card{
+  border: 0.1px black solid;
+}
+
+.cardList{
+}
